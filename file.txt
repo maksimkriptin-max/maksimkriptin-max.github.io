@@ -1,0 +1,4 @@
+tradingview-clone/
+├── index.html
+├── script.js
+└── .gitignore
